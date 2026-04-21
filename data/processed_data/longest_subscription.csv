@@ -1,0 +1,4 @@
+"plan_tier","subscription_id","account_id","start_date","end_date","days_duration","duration_text"
+"Basic","S-92f228","A-779e4e","2023-01-09",NULL,1198,"1198 days"
+"Pro","S-50aaaa","A-af0cd2","2023-01-12",NULL,1195,"1195 days"
+"Enterprise","S-18356d","A-779e4e","2023-01-28",NULL,1179,"1179 days"
