@@ -107,6 +107,11 @@ Designing relational data models
 Writing analytical SQL queries
 Working with real-world business metrics
 Understanding churn and revenue dynamics
+
+Dashboard:
+<img width="1171" height="658" alt="dashboard" src="https://github.com/user-attachments/assets/9aac91db-1e6b-430b-a6a9-05c5a53ad88d" />
+
+
 👤 Author
 
 Dmitruz Ruzhytskyi
